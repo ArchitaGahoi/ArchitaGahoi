@@ -39,7 +39,6 @@ I am passionate about contributing to *team-oriented projects* and *developing s
 ---
 
 ## 📞 Contact Information
-- <img src="https://img.icons8.com/fluency/24/000000/phone.png"/> *Phone*: +91 9726412005 
 - <img src="https://img.icons8.com/fluency/24/000000/gmail.png"/> *Email*: [architagahoi18@gmail.com](mailto:architagahoi18@gmail.com)  
 - <img src="https://img.icons8.com/fluency/24/000000/linkedin.png"/> *LinkedIn*: [linkedin.com/in/archita-gahoi-b3770330b/](https://www.linkedin.com/in/archita-gahoi-b3770330b/)
 
